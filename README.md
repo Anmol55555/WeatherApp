@@ -1,2 +1,3 @@
 # WeatherApp
-App to get Weather Conditions for any city
+App to search Weather Conditions for any city.
+Used Accuweather API for fetching data.
